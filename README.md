@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="#russian">🇷🇺 Русский</a> &nbsp;|&nbsp; <a href="#english">🇬🇧 English</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -28,26 +24,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kybrik32&theme=github_dark" />
 </p>
 
-<h2 id="russian">🇷🇺 О себе</h2>
-
-Frontend-разработчик, работаю с современными веб-технологиями и создаю адаптивные пользовательские интерфейсы. Изучаю разработку на практике, стараюсь писать чистый и поддерживаемый код.
-
-**Чем занимаюсь:**
-- Разрабатываю интерфейсы на HTML, CSS и JavaScript
-- Строю компонентные приложения на React
-- Веду версионирование кода через Git, работаю с ветками и Pull Request'ами
-- Разворачиваю и тестирую окружения с помощью Docker
-
-**Сейчас изучаю:**
-- Разработку серверной части приложений
-- Работу с базами данных
-- Тестирование и оптимизацию производительности
-
-**Контакты:**
-- Telegram: [@volkmaksi](https://t.me/volkmaksi)
-- Email: wolkowmaksim1437@gmail.com
-
-<h2 id="english">🇬🇧 About</h2>
+<h2>About</h2>
 
 Frontend developer working with modern web technologies to build responsive user interfaces. Learning by building real projects, with a focus on writing clean, maintainable code.
 
