@@ -1,79 +1,108 @@
 <div align="center">
 
-# Hey, I'm Maxim 👋
+# MAXIM / WEB DEVELOPER
 
-### Freelance Web Developer · Websites, Interfaces & Simple Automations
+**Freelance Web Developer · Websites · Interactive Interfaces · Simple Automations**
 
-I build responsive websites and practical digital tools for small businesses — with a focus on clear design, usability, and thoughtful details.
+I build responsive websites and practical digital tools for small businesses — with a focus on strong visuals, usability, and thoughtful details.
 
-**Currently building my portfolio and open to small freelance projects.**
-
-[![Email](https://img.shields.io/badge/Email-Contact_me-17191B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wolkowmaksim1437@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_me-17191B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volkmaksi)
+[![Open to projects](https://img.shields.io/badge/OPEN_TO_SMALL_PROJECTS-B86B42?style=for-the-badge&labelColor=17191B)](mailto:wolkowmaksim1437@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-17191B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wolkowmaksim1437@gmail.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-17191B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volkmaksi)
 
 </div>
 
 ---
 
-## What I'm working on
+### / CURRENT PROJECTS
 
-### 🏍️ IRON & DUST — Custom Motorcycle Workshop
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A fictional motorcycle workshop website built as a portfolio concept.
+#### 🏍️ IRON & DUST
+**Custom Motorcycle Workshop — Portfolio Concept**
 
-- Responsive landing page with an industrial, editorial visual style
-- React + Vite + CSS
-- Cinematic hero motion, scroll reveals, and interactive build gallery
-- Accessible navigation, project dialogs, and a clearly labeled demo contact form
+A fictional motorcycle workshop website with an industrial editorial style, cinematic motion, responsive layouts, and an interactive project gallery.
 
-**Status:** Built and tested locally · Preparing the public repository and live demo
+![React](https://img.shields.io/badge/React-17191B?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-17191B?style=flat-square&logo=vite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-17191B?style=flat-square&logo=css3&logoColor=white)
 
-### 🧩 Studio Assistant — Small Business Workflow Prototype
+**Status:** Built and tested locally · Public demo coming soon
 
-An exploratory tool for small educational studios, focused on making everyday administration simpler.
+</td>
+<td width="50%" valign="top">
 
-- CSV-based application processing and duplicate handling
-- Prototyping workflows around subscriptions, payment status, and workshop registration
-- Exploring lightweight alternatives to overly complicated administrative processes
+#### 🧩 STUDIO ASSISTANT
+**Small Business Workflow Prototype**
 
-**Status:** Prototype / ongoing exploration · Repository currently private
+An exploratory tool for educational studios: CSV application processing, duplicate handling, and prototypes for subscriptions, payments, and workshop registration.
+
+![Python](https://img.shields.io/badge/Python-17191B?style=flat-square&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Workflow_Automation-17191B?style=flat-square)
+
+**Status:** Ongoing prototype · Private repository
+
+</td>
+</tr>
+</table>
+
+### / WHAT I BUILD
+
+- **Landing pages & business websites** — responsive pages with a clear message and strong presentation
+- **Frontend improvements** — mobile layouts, visual polish, and usability fixes
+- **Interactive interfaces** — galleries, forms, and considered motion
+- **Simple automations** — practical tools for repetitive small-business workflows
+
+I currently collaborate primarily through **written, asynchronous communication**.
+
+### / TECH STACK
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+**Currently improving:** accessibility, performance, testing, deployment, and practical automation.
+
+### / GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kybrik32&theme=github_dark" alt="GitHub contribution activity" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kybrik32&theme=github_dark" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kybrik32&theme=github_dark" alt="Repository languages" />
+
+</div>
+
+### / NEXT UP
+
+- [x] Build the IRON & DUST portfolio concept
+- [ ] Publish the IRON & DUST repository and live demo
+- [ ] Launch my personal freelance portfolio website
+- [ ] Complete my first small freelance client projects
+- [ ] Keep building practical small-business tools
 
 ---
 
-## What I can help with
+<div align="center">
 
-- **Landing pages & small business websites** — responsive pages that communicate a service clearly
-- **Frontend improvements** — layout fixes, mobile usability, and interface polish
-- **Interactive UI** — galleries, forms, subtle animation, and user-friendly components
-- **Simple workflow automation** — small tools and process improvements, scoped to the task
+### HAVE A PROJECT IN MIND?
 
-I work primarily through **written communication**, which makes async collaboration straightforward.
+**A landing page, a website improvement, or a small automation task?**
 
-## Tools & technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Currently improving:** frontend quality assurance, performance, accessibility, deployment, and practical automation.
-
-## Next milestones
-
-- [x] Build the IRON & DUST portfolio concept
-- [ ] Publish IRON & DUST with a live demo
-- [ ] Launch my personal freelance portfolio website
-- [ ] Take on my first small client projects
-- [ ] Continue developing useful small-business tools
-
-## Let's connect
-
-Have a landing page, website improvement, or small automation task in mind?
-
-**Email:** [wolkowmaksim1437@gmail.com](mailto:wolkowmaksim1437@gmail.com)  
-**Telegram:** [@volkmaksi](https://t.me/volkmaksi)
+[**Email me**](mailto:wolkowmaksim1437@gmail.com) · [**Telegram**](https://t.me/volkmaksi)
 
 <sub>Building in public, one finished project at a time.</sub>
+
+</div>
