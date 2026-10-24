@@ -27,7 +27,7 @@ A website concept for a fictional custom motorcycle workshop. Designed with a da
 ![Vite](https://img.shields.io/badge/Vite-17191B?style=flat-square&logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-17191B?style=flat-square&logo=css3&logoColor=white)
 
-**Status:** Built and tested locally · Public demo coming soon
+**Status:** Published · [Live website](https://iron-and-dust.wolkowmaksim1437.workers.dev) · [Source code](https://github.com/Kybrik32/Iron_and_dust)
 
 ---
 
