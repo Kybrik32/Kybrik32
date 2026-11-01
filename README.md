@@ -14,22 +14,26 @@ I build visually distinctive, responsive websites for small businesses — combi
 
 ---
 
-### / FEATURED PROJECT
+### / SELECTED WORK
 
-#### 🏍️ IRON & DUST
-**Custom Motorcycle Workshop — Portfolio Concept**
+I create modern, responsive websites with a focus on visual design, usability, and thoughtful interactions.
 
-A website concept for a fictional custom motorcycle workshop. Designed with a dark industrial aesthetic, editorial typography, responsive layouts, and subtle cinematic motion.
+My work includes business websites, independent redesign concepts, and interactive frontend experiences across different industries.
 
-**Highlights:** Animated hero · Scroll reveals · Interactive build gallery · Responsive design · Accessible interactions
+**Explore my public repositories** for project demos, source code, and documentation.
 
-![React](https://img.shields.io/badge/React-17191B?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-17191B?style=flat-square&logo=vite&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-17191B?style=flat-square&logo=css3&logoColor=white)
+[**Browse projects**](https://github.com/Kybrik32?tab=repositories)
 
-**Status:** Published · [Live website](https://iron-and-dust.wolkowmaksim1437.workers.dev) · [Source code](https://github.com/Kybrik32/Iron_and_dust)
+*Full portfolio website: coming soon.*
 
 ---
+
+### / HOW I WORK
+
+- **Business-focused design** — clear structure, intuitive navigation, and purposeful user experiences
+- **Responsive development** — interfaces built for desktop and mobile
+- **Thoughtful motion** — interactions that support the experience without getting in the way
+- **Clear communication** — structured collaboration and transparent scope
 
 ### / WHAT I BUILD
 
