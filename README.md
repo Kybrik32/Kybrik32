@@ -22,9 +22,9 @@ My work includes business websites, independent redesign concepts, and interacti
 
 **Explore my public repositories** for project demos, source code, and documentation.
 
-[**Browse projects**](https://github.com/Kybrik32?tab=repositories)
+[**View My Portfolio**](https://maxim-portfolio.wolkowmaksim1437.workers.dev/)
 
-*Full portfolio website: coming soon.*
+[Browse source code and repositories](https://github.com/Kybrik32?tab=repositories)
 
 ---
 
